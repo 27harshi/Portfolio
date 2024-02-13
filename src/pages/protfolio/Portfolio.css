@@ -1,0 +1,20 @@
+.customcard .customcard_title{
+    font-size: 20px;
+    font-weight:bolder;
+    color: black;
+}
+.customcard .customcard_description{
+    font-size: medium;
+    color: gray;
+}
+.customcard .link{
+    border: 1px solid;
+    text-decoration: none;
+
+}
+.link :hover{
+    background-color: gray;
+}
+
+
+
